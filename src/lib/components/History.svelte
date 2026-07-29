@@ -11,7 +11,7 @@
     // 2. UBAH 'const' JADI 'let' BIAR BISA DIUPDATE
     let profile = {
         label: "",
-        alias: "Justin",     
+        alias: "dikaaa",     
         tagline: "I like being alone, listening to music in my own world, away from all bullshit in life.", 
         bio: "And yeah, below is a little story about how I first got into Wisp music.",
         avatar: "/profile1.png" // Ini gambar default kalau database kosong
