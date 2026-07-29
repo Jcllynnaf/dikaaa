@@ -142,7 +142,7 @@
 <section class="sonic-collection" in:fly={{ y: 50, duration: 1000, easing: cubicOut }}>
     
     <div class="collection-header">
-        <h2 class="global-title">Wisp</h2>
+        <h2 class="global-title">Wispforlyfe</h2>
         <p class="subtitle">all my favorites</p>
     </div>
 
